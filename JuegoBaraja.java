@@ -1,5 +1,3 @@
-package barajapoo;
-
 import java.util.Scanner;
 
 /**
