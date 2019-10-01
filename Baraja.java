@@ -1,5 +1,3 @@
-package barajapoo;
-
 import java.util.ArrayList;
 import java.util.Collections;
 
