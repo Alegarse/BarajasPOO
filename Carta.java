@@ -1,6 +1,3 @@
-
-package barajapoo;
-
 /**
  *
  * @author Alejandro García Serrano 2ºDAM
@@ -24,10 +21,7 @@ public class Carta{
     public String toString() {
         return "" + valor + " de " + palo;
     }
-
-       
-    
-    
+   
 }
 
 
